@@ -11,14 +11,14 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "바 둑"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "ydk7819"
 description              : "무신사 랭킹 알려줍니다"
 url                      : "https://ydk7819.github.io"
 baseurl                  : "/public"
